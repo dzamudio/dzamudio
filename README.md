@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan
-- 👀 I’m interested in developing applications that help people get tasks done easily. (Process improvement)
-- 🌱 I’m currently learning Python and Machine Learning (taking an IBM course)
+- 👀 I love to code for process improvement.
+- 🌱 I’m currently learning Python and Machine Learning.
 - 💞️ I’m looking to collaborate on fun weekend projects.
 - 📫 How to reach me daniel . zamudio @ Ymail.com
 
