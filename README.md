@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan
 - 👀 I love to code for process improvement.
-- 🌱 I’m currently learning Python and Machine Learning.
+- 🌱 Learning about NFTs, ML, python, and Laravel/Vue.js
 - 💞️ I’m looking to collaborate on fun weekend projects.
 - 📫 How to reach me daniel . zamudio @ Ymail.com
 
